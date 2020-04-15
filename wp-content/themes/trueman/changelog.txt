@@ -1,0 +1,36 @@
+Version 1.4
+    Added:
+    - GDPR Compliance plugin
+    - Contact Form 7 plugin
+    - Alert to Demo data installation
+    - Privacy Policy page
+
+    Fixed:
+    - Compatibility with Gutenberg and other PageBuilders
+    - Compatibility with Wordpress 4.9.8
+    - Compatibility with Woocommerce 3.4.4
+    - Update plugins to their latest versions
+    - Improve theme styles
+    - Update documentation
+
+    Changed:
+    - Make forms GDPR-compliant
+    - Move Importer to ThemeREX Utilities plugin
+
+Version 1.3
+    The theme is now compatible with version WooCommerce 3.0 and higher.
+
+Version 1.2
+    Fixed some css issue
+    Plugins updated.
+
+Version 1.1
+    Social login issue fixed.
+    Plugins updated.
+
+Version 1.0
+
+
+
+
+
